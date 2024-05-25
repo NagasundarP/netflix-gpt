@@ -2,6 +2,11 @@
 
 - Create react app
 - Configured TailwindCSS
+- Login
+- Form validation
+- Firebase
+- Hosting
+- Authentication
 
 # Features 
 - Login/Sign Up
