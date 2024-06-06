@@ -1,6 +1,7 @@
 import { IMG_CDN_URL } from "../utils/constants";
 
 const MovieCards = ({ posterPath }) => {
+  if(!posterPath) return null;
   return (
     <div className="flex-shrink-0 w-32 sm:w-48">
       <img 

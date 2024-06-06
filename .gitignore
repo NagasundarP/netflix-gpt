@@ -24,3 +24,4 @@ yarn-error.log*
 
 src/utils/firebaseKeys.js
 src/utils/constants.js
+.env
