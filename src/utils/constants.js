@@ -11,7 +11,8 @@ export const API_OPTIONS = {
   method: "GET",
   headers: {
     accept: "application/json",
-    Authorization: "" },
+    Authorization: "Bearer " + process.env.REACT_APP_TMBD_KEY, },
+ },
 };
 
 
